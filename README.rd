@@ -1,3 +1,4 @@
+
 # 3D Solar System – Sakshi Patil
 
 A 3D interactive simulation of the solar system built using Three.js. Each planet rotates around the Sun with adjustable speed, pause/resume controls, tooltips, and background music.
