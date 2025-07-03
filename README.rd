@@ -1,27 +1,39 @@
+Frontend Assignment – Sakshi Patil
+----------------------------------
 
-# 3D Solar System – Sakshi Patil
+Project Title: 3D Solar System Simulation using Three.js
 
-A 3D interactive simulation of the solar system built using Three.js. Each planet rotates around the Sun with adjustable speed, pause/resume controls, tooltips, and background music.
+Description:
+This project is a mobile-responsive interactive 3D solar system built using the Three.js library and plain JavaScript. It showcases all 8 planets orbiting the sun, with realistic lighting and motion.
 
-## 🌍 Features
-- All 8 planets orbiting the Sun
-- Realistic lighting and 3D animation
-- Individual speed controls for each planet
-- Pause/Resume button
-- Space ambient background music
-- Orbit rings and background stars
-- Tooltips on hover
-- Camera focus on planet click
+✅ Features Implemented:
+- Real-time orbiting of 8 planets around the Sun
+- Planet speed control using sliders
+- Pause/Resume animation button
+- Background stars for realistic space effect
+- Tooltips on hover (shows planet name)
+- Camera zoom/focus on planet click
+- Space-themed background music on button click
+- Orbit rings for better visualization
 
-## 🔧 How to Run
-1. Download or unzip the project folder.
-2. Open `index.html` in **Live Server** (VSCode extension) or any local server.
-3. Click **"Play Music"** to hear background audio.
-4. Interact with controls, sliders, and planets!
+🎥 Demo Video:
+- A 2-minute screen recording has been included (`demo.mp4`)
+- Walkthrough includes simulation, UI controls, and code structure
 
-## 🎥 Demo
-Refer to the `demo.mp4` video file included.
+📁 Files Included:
+- `index.html` – Main project file
+- `README.md` – Instructions to run
+- `demo.mp4` – Demonstration of working features
+- (Optional) `assets/` – Additional media (if any)
 
----
+How to Run:
+1. Open `index.html` in a browser using Live Server or any local server
+2. Click "Play Music" to enable ambient sound
+3. Interact with controls: sliders, pause/resume, hover, and click
 
-Created by Sakshi Patil.
+GitHub Repository (if applicable):
+👉 https://github.com/<your-username>/solar-system-threejs
+
+Submission by:
+Sakshi Patil  
+Frontend Developer Intern Candidate  
